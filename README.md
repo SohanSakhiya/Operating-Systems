@@ -1,5 +1,4 @@
 
-
 ## Section f Operating System Virtual Lab 
 *   Disk Scheduling 
 *   Page Replacement 
@@ -54,21 +53,7 @@ After adding all processes and selecting the scheduling algorithm click on RUN b
 
 <br /><br />
 
-## How to contribute in this project :- 
 
-You can directly fork or clone this project using command line to your system and make changes. <br />
-### Steps: 
-Below are the steps you can use to further run this project on your own and make changes to them according to your need and requirement.  <br />
-For Downloading the all codes file, you can use this command in your command prompt :-    <br />
-Git clone https://github.com/patelyash9775/OS_Virtual_LAB.git   <br /> <br />
-For the Forking this project , you can use this command in your GitHub CLI Tools :-   <br />
-gh repo fork https://github.com/patelyash9775/OS_Virtual_LAB.git --clone
-  
-  <br />
-After Completing the changes in your local repo or changes in your local storage device, you can push your edited Code to the GitHub Repo and your task terminates there.  
-
-
-<br /><br />
 
 ## Languages are used in Project :- 
 
