@@ -1,8 +1,6 @@
-# OSVirtualLab
-We made Operating System Virtual Lab where students are able to learn CPU Scheduling Algorithms from scratch and also implement Algorithms in this website. Here we also provide animated video for clearing basic ideas. And for deep understanding also various blogs and tutorials are available.   
-You can see demo [Check Here](https://patelyash9775.github.io/OS_Virtual_LAB/)
 
-## Section Of Operating System Virtual Lab 
+
+## Section f Operating System Virtual Lab 
 *   Disk Scheduling 
 *   Page Replacement 
 *   Deadlock & Concurrency
@@ -80,9 +78,4 @@ After Completing the changes in your local repo or changes in your local storage
 
 <br /><br />
 
-## Developed By
-1) [Pritesh Patel](https://www.linkedin.com/in/pritesh-patel-9a17981a5)   
-2) [Pushti Yadav](https://www.linkedin.com/in/pushti-yadav-19092001)  
-3) [Sonu Soni](https://www.linkedin.com/in/sonu-soni-54797320a)  
-4) [Yash Patel](https://www.linkedin.com/in/yash-patel-4014a7207/)  
-5) [Yashvi Thacker](https://www.linkedin.com/mwlite/in/yashvi-thacker-020b10213)  
+
